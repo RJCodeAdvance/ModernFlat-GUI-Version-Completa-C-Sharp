@@ -1,4 +1,4 @@
-# Formulario Plano Moderno con Menú animado Efecto Sliding, One Window, Versión Completa/ C#, WinForm (Beta)
+# Formulario Plano Moderno con Menú animado Efecto Sliding, One Window, Versión Completa/ C#, WinForm (Beta)+Pasar Datos Entre Formularios
 
 <div align='center'>
  <h1>Pink Dark Theme</h1>
