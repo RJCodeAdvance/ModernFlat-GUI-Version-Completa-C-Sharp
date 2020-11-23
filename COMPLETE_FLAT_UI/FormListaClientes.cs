@@ -48,7 +48,7 @@ namespace COMPLETE_FLAT_UI
              
             }
             else
-                MessageBox.Show("seleccione una fila por favor");
+                MessageBox.Show("seleccione uma fila por favor");
         }
 
         private void btnNuevo_Click(object sender, EventArgs e)
@@ -92,6 +92,10 @@ namespace COMPLETE_FLAT_UI
             this.Close();
         }
 
-        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormMembresia frm = new FormMembresia();
+            frm.ShowDialog();
+        }
     }
 }
