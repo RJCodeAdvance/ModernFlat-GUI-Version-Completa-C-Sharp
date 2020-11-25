@@ -148,11 +148,11 @@
             // 
             this.lblHora.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.lblHora.AutoSize = true;
-            this.lblHora.Font = new System.Drawing.Font("Microsoft Sans Serif", 35.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHora.Font = new System.Drawing.Font("Copperplate Gothic Bold", 20.15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHora.ForeColor = System.Drawing.Color.LightGray;
-            this.lblHora.Location = new System.Drawing.Point(612, 11);
+            this.lblHora.Location = new System.Drawing.Point(689, 35);
             this.lblHora.Name = "lblHora";
-            this.lblHora.Size = new System.Drawing.Size(205, 54);
+            this.lblHora.Size = new System.Drawing.Size(143, 30);
             this.lblHora.TabIndex = 1;
             this.lblHora.Text = "21:49:45";
             // 
