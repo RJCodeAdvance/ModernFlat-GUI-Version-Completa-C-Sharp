@@ -112,3 +112,6 @@ C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPL
 C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
 C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
 C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.F_login.resources
+C:\Users\lucas\Desktop\Projeto VT - Oficial\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Projeto VT - Oficial\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
+C:\Users\lucas\Desktop\Projeto VT - Oficial\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
