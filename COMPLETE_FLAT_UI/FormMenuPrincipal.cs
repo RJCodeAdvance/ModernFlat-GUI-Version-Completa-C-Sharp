@@ -109,7 +109,7 @@ namespace COMPLETE_FLAT_UI
 
         private void btnCerrar_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("¿Está seguro de cerrar?", "Alerta¡¡", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            if (MessageBox.Show("Deseja Fechar o Aplicativo?", "Atenção!!", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
                 Application.Exit();
             }
@@ -117,7 +117,7 @@ namespace COMPLETE_FLAT_UI
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("¿Está seguro de cerrar?", "Alerta¡¡", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            if (MessageBox.Show("Deseja Fechar o Aplicativo?", "Atenção!!", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
                 Application.Exit();
             }
@@ -126,7 +126,7 @@ namespace COMPLETE_FLAT_UI
         //METODOS PARA ANIMACION DE MENU SLIDING--
         private void btnMenu_Click(object sender, EventArgs e)
         {
-            //-------CON EFECTO SLIDING
+            //-------CON EFEITO SLIDING
             if (panelMenu.Width == 230)
             {
                 this.tmContraerMenu.Start();
@@ -136,7 +136,7 @@ namespace COMPLETE_FLAT_UI
                 this.tmExpandirMenu.Start();
             }
 
-            //-------SIN EFECTO 
+            //-------SEM EFEITO 
             //if (panelMenu.Width == 55)
             //{
             //    panelMenu.Width = 230;
@@ -163,7 +163,7 @@ namespace COMPLETE_FLAT_UI
                 panelMenu.Width = panelMenu.Width - 5;
         }
 
-        //METODO PARA ABRIR FORM DENTRO DE PANEL-----------------------------------------------------
+        //METODO PARA ABRIR FORM DENTRO DE PAINEL-----------------------------------------------------
         private void AbrirFormEnPanel(object formHijo)
         {
             if (this.panelContenedorForm.Controls.Count > 0)
@@ -176,7 +176,7 @@ namespace COMPLETE_FLAT_UI
             this.panelContenedorForm.Tag = fh;
             fh.Show();
         }
-        //METODO PARA MOSTRAR FORMULARIO DE LOGO Al INICIAR ----------------------------------------------------------
+        //METODO PARA MOSTRAR FORMULARIO DE LOGO AO INICIAR ----------------------------------------------------------
         private void MostrarFormLogo()
         {
             AbrirFormEnPanel(new FormLogo());
@@ -201,6 +201,8 @@ namespace COMPLETE_FLAT_UI
 
         private void btnMembresia_Click(object sender, EventArgs e)
         {
+
+            //falta código
             FormMembresia frm = new FormMembresia();
             frm.FormClosed += new FormClosedEventHandler(MostrarFormLogoAlCerrarForms);
             AbrirFormEnPanel(frm);

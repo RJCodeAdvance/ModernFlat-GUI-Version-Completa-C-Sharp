@@ -34,13 +34,10 @@
             this.panelContenedorForm = new System.Windows.Forms.Panel();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label5 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.lbFecha = new System.Windows.Forms.Label();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.lblHora = new System.Windows.Forms.Label();
             this.panelMenu = new System.Windows.Forms.Panel();
-            this.btnSalir = new System.Windows.Forms.PictureBox();
             this.btnMenu = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.button5 = new System.Windows.Forms.Button();
@@ -66,9 +63,7 @@
             this.tmFechaHora = new System.Windows.Forms.Timer(this.components);
             this.panelContenedorPrincipal.SuspendLayout();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             this.panelMenu.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.btnSalir)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnMenu)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
@@ -106,10 +101,8 @@
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(55)))), ((int)(((byte)(61)))), ((int)(((byte)(69)))));
             this.panel1.Controls.Add(this.label5);
-            this.panel1.Controls.Add(this.label4);
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.lbFecha);
-            this.panel1.Controls.Add(this.pictureBox7);
             this.panel1.Controls.Add(this.lblHora);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel1.Location = new System.Drawing.Point(230, 500);
@@ -120,74 +113,52 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("DFMincho-W5", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.LightGray;
-            this.label5.Location = new System.Drawing.Point(83, 54);
+            this.label5.Location = new System.Drawing.Point(6, 49);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(42, 16);
+            this.label5.Size = new System.Drawing.Size(34, 16);
             this.label5.TabIndex = 7;
-            this.label5.Text = "Cargo";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("DFMincho-W5", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.ForeColor = System.Drawing.Color.LightGray;
-            this.label4.Location = new System.Drawing.Point(83, 36);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(92, 16);
-            this.label4.TabIndex = 6;
-            this.label4.Text = "Apellidos User";
+            this.label5.Text = "CPF";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("DFMincho-W5", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.LightGray;
-            this.label3.Location = new System.Drawing.Point(83, 18);
+            this.label3.Location = new System.Drawing.Point(6, 20);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(64, 16);
+            this.label3.Size = new System.Drawing.Size(48, 16);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Nombres ";
+            this.label3.Text = "NOME";
             // 
             // lbFecha
             // 
             this.lbFecha.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.lbFecha.AutoSize = true;
-            this.lbFecha.Font = new System.Drawing.Font("DFMincho-W5", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.lbFecha.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.lbFecha.ForeColor = System.Drawing.Color.White;
             this.lbFecha.Location = new System.Drawing.Point(608, 71);
             this.lbFecha.Name = "lbFecha";
-            this.lbFecha.Size = new System.Drawing.Size(209, 16);
+            this.lbFecha.Size = new System.Drawing.Size(224, 20);
             this.lbFecha.TabIndex = 4;
             this.lbFecha.Text = "Lunes, 26 de septiembre 2018";
-            // 
-            // pictureBox7
-            // 
-            this.pictureBox7.Image = global::COMPLETE_FLAT_UI.Properties.Resources.perfil;
-            this.pictureBox7.Location = new System.Drawing.Point(12, 18);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(65, 65);
-            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox7.TabIndex = 3;
-            this.pictureBox7.TabStop = false;
             // 
             // lblHora
             // 
             this.lblHora.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.lblHora.AutoSize = true;
-            this.lblHora.Font = new System.Drawing.Font("DFMincho-W5", 35.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHora.Font = new System.Drawing.Font("Copperplate Gothic Bold", 20.15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHora.ForeColor = System.Drawing.Color.LightGray;
-            this.lblHora.Location = new System.Drawing.Point(612, 11);
+            this.lblHora.Location = new System.Drawing.Point(689, 35);
             this.lblHora.Name = "lblHora";
-            this.lblHora.Size = new System.Drawing.Size(205, 53);
+            this.lblHora.Size = new System.Drawing.Size(143, 30);
             this.lblHora.TabIndex = 1;
             this.lblHora.Text = "21:49:45";
             // 
             // panelMenu
             // 
             this.panelMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(34)))), ((int)(((byte)(39)))));
-            this.panelMenu.Controls.Add(this.btnSalir);
             this.panelMenu.Controls.Add(this.btnMenu);
             this.panelMenu.Controls.Add(this.pictureBox5);
             this.panelMenu.Controls.Add(this.button5);
@@ -207,26 +178,14 @@
             this.panelMenu.Size = new System.Drawing.Size(230, 557);
             this.panelMenu.TabIndex = 2;
             // 
-            // btnSalir
-            // 
-            this.btnSalir.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.btnSalir.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnSalir.Image = global::COMPLETE_FLAT_UI.Properties.Resources.shut_down;
-            this.btnSalir.Location = new System.Drawing.Point(9, 511);
-            this.btnSalir.Name = "btnSalir";
-            this.btnSalir.Size = new System.Drawing.Size(43, 37);
-            this.btnSalir.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.btnSalir.TabIndex = 13;
-            this.btnSalir.TabStop = false;
-            // 
             // btnMenu
             // 
             this.btnMenu.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnMenu.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnMenu.Image = global::COMPLETE_FLAT_UI.Properties.Resources.menu2;
-            this.btnMenu.Location = new System.Drawing.Point(181, 2);
+            this.btnMenu.Location = new System.Drawing.Point(191, 6);
             this.btnMenu.Name = "btnMenu";
-            this.btnMenu.Size = new System.Drawing.Size(43, 37);
+            this.btnMenu.Size = new System.Drawing.Size(22, 28);
             this.btnMenu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.btnMenu.TabIndex = 12;
             this.btnMenu.TabStop = false;
@@ -248,7 +207,7 @@
             this.button5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(69)))), ((int)(((byte)(76)))));
             this.button5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(45)))), ((int)(((byte)(53)))));
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button5.Font = new System.Drawing.Font("DFMincho-W5", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.Color.Silver;
             this.button5.Image = ((System.Drawing.Image)(resources.GetObject("button5.Image")));
             this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -256,7 +215,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(230, 40);
             this.button5.TabIndex = 10;
-            this.button5.Text = "Usuarios";
+            this.button5.Text = "Configurações";
             this.button5.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
@@ -277,7 +236,7 @@
             this.button6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(69)))), ((int)(((byte)(76)))));
             this.button6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(45)))), ((int)(((byte)(53)))));
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button6.Font = new System.Drawing.Font("DFMincho-W5", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button6.ForeColor = System.Drawing.Color.Silver;
             this.button6.Image = global::COMPLETE_FLAT_UI.Properties.Resources.APs;
             this.button6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -305,7 +264,7 @@
             this.button3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(69)))), ((int)(((byte)(76)))));
             this.button3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(45)))), ((int)(((byte)(53)))));
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("DFMincho-W5", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.Silver;
             this.button3.Image = global::COMPLETE_FLAT_UI.Properties.Resources.Planes;
             this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -313,7 +272,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(230, 40);
             this.button3.TabIndex = 6;
-            this.button3.Text = "Planes";
+            this.button3.Text = "Anotações";
             this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button3.UseVisualStyleBackColor = true;
             // 
@@ -333,7 +292,7 @@
             this.btnMembresia.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(69)))), ((int)(((byte)(76)))));
             this.btnMembresia.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(45)))), ((int)(((byte)(53)))));
             this.btnMembresia.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnMembresia.Font = new System.Drawing.Font("DFMincho-W5", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMembresia.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMembresia.ForeColor = System.Drawing.Color.Silver;
             this.btnMembresia.Image = global::COMPLETE_FLAT_UI.Properties.Resources.Membresia;
             this.btnMembresia.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -341,7 +300,7 @@
             this.btnMembresia.Name = "btnMembresia";
             this.btnMembresia.Size = new System.Drawing.Size(230, 40);
             this.btnMembresia.TabIndex = 4;
-            this.btnMembresia.Text = "Membresia";
+            this.btnMembresia.Text = "Pedidos";
             this.btnMembresia.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnMembresia.UseVisualStyleBackColor = true;
             this.btnMembresia.Click += new System.EventHandler(this.btnMembresia_Click);
@@ -362,7 +321,7 @@
             this.btnListaClientes.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(69)))), ((int)(((byte)(76)))));
             this.btnListaClientes.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(45)))), ((int)(((byte)(53)))));
             this.btnListaClientes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnListaClientes.Font = new System.Drawing.Font("DFMincho-W5", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnListaClientes.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnListaClientes.ForeColor = System.Drawing.Color.Silver;
             this.btnListaClientes.Image = ((System.Drawing.Image)(resources.GetObject("btnListaClientes.Image")));
             this.btnListaClientes.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -370,7 +329,7 @@
             this.btnListaClientes.Name = "btnListaClientes";
             this.btnListaClientes.Size = new System.Drawing.Size(230, 40);
             this.btnListaClientes.TabIndex = 2;
-            this.btnListaClientes.Text = "Clientes";
+            this.btnListaClientes.Text = "Cadastros Colaboradores";
             this.btnListaClientes.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnListaClientes.UseVisualStyleBackColor = true;
             this.btnListaClientes.Click += new System.EventHandler(this.btnListaClientes_Click);
@@ -391,7 +350,7 @@
             this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(69)))), ((int)(((byte)(76)))));
             this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(45)))), ((int)(((byte)(53)))));
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("DFMincho-W5", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Silver;
             this.button1.Image = global::COMPLETE_FLAT_UI.Properties.Resources.Dashboard;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -399,7 +358,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(230, 40);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Dashboard";
+            this.button1.Text = "Relatórios";
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button1.UseVisualStyleBackColor = true;
@@ -433,13 +392,13 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("DFMincho-W5", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(35, 15);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(87, 16);
+            this.label1.Size = new System.Drawing.Size(96, 16);
             this.label1.TabIndex = 4;
-            this.label1.Text = "ISP SYSTEM";
+            this.label1.Text = "LR SISTEMAS";
             // 
             // btnNormal
             // 
@@ -530,9 +489,7 @@
             this.panelContenedorPrincipal.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             this.panelMenu.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.btnSalir)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnMenu)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
@@ -560,13 +517,10 @@
         private System.Windows.Forms.Panel panelContenedorForm;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label lbFecha;
-        private System.Windows.Forms.PictureBox pictureBox7;
         private System.Windows.Forms.Label lblHora;
         private System.Windows.Forms.Panel panelMenu;
-        private System.Windows.Forms.PictureBox btnSalir;
         private System.Windows.Forms.PictureBox btnMenu;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.Button button5;

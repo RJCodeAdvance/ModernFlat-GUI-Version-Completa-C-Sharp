@@ -51,3 +51,67 @@ D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\De
 D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe.manifest
 D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.application
 D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.test.FormMenuPrincipal.resources
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.config
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.manifest
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.application
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.pdb
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csprojAssemblyReference.cache
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Form1.resources
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaClientes.resources
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormLogo.resources
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMantCliente.resources
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMembresia.resources
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMenuPrincipal.resources
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Properties.Resources.resources
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.test.FormMenuPrincipal.resources
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.GenerateResource.cache
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.CoreCompileInputs.cache
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe.manifest
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.application
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
+C:\Users\deric\Desktop\Modelo Projeto Pronto\ModernFlat-GUI-Version-Completa-C-Sharp\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.config
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.manifest
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.application
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.pdb
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csprojAssemblyReference.cache
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Form1.resources
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaClientes.resources
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormLogo.resources
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMantCliente.resources
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMembresia.resources
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMenuPrincipal.resources
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Properties.Resources.resources
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.test.FormMenuPrincipal.resources
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.GenerateResource.cache
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.CoreCompileInputs.cache
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe.manifest
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.application
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
+C:\Users\deric\Desktop\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.config
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.manifest
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.application
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.pdb
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csprojAssemblyReference.cache
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Form1.resources
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaClientes.resources
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormLogo.resources
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMantCliente.resources
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMembresia.resources
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMenuPrincipal.resources
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Properties.Resources.resources
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.test.FormMenuPrincipal.resources
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.GenerateResource.cache
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.CoreCompileInputs.cache
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe.manifest
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.application
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
+C:\Users\deric\Desktop\Rafa VT\Modelo Menu - VT\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.F_login.resources
+C:\Users\lucas\Desktop\Projeto VT - Oficial\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Projeto VT - Oficial\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
+C:\Users\lucas\Desktop\Projeto VT - Oficial\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
