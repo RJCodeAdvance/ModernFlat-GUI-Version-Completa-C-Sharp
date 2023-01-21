@@ -37,24 +37,23 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(325, 119);
+            this.pictureBox1.Location = new System.Drawing.Point(281, 127);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(225, 146);
+            this.pictureBox1.Size = new System.Drawing.Size(321, 180);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.label1.Location = new System.Drawing.Point(286, 268);
+            this.label1.Location = new System.Drawing.Point(274, 280);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(292, 39);
+            this.label1.Size = new System.Drawing.Size(347, 39);
             this.label1.TabIndex = 1;
-            this.label1.Text = "RJ Code Advance";
+            this.label1.Text = "LeindeckeR Sistemas";
             // 
             // FormLogo
             // 
